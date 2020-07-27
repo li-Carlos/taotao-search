@@ -1,0 +1,6 @@
+.idea
+taotao-search.iml
+taotao-search-interface/target
+taotao-search-service/target
+taotao-search-service/taotao-search-service.iml
+taotao-search-interface/taotao-search-interface.iml
